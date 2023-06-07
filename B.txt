@@ -1,0 +1,41 @@
+Group B
+
+5
+
+A book consists of chapters, chapters consist of sections and sections consist of subsections. Construct a tree and print the nodes. Find the time and space requirements of your method.
+
+6
+
+Beginning with an empty binary search tree, Construct binary search tree by inserting the values in the order given. After constructing a binary tree - i. Insert new node, ii. Find number of nodes in longest path from root, iii. Minimum data value found in the tree, iv. Change a tree so that the roles of the left and right pointers
+
+are swapped at every node, v. Search a value
+
+http://collegecirculars.unipune.ac.in/sites/documents/Syllabus2020/Forms/Allltems.aspx
+
+#65/87
+
+Curriculum for Second Year of Computer Engineering (2019 Course), Savitribai Phule Pune University
+
+7
+
+Construct an expression tree from the given prefix expression eg. +--a*bc/def and traverse it using post order traversal (non recursive) and then delete the entire tree.
+
+8 00
+
+Read for the formulas in propositional calculus. Write a function that reads such a formula and creates its binary tree representation. What is the complexity of your function?
+
+9
+
+Convert given binary tree into threaded binary tree. Analyze time and space complexity of the algorithm.
+
+10
+
+Consider threading a binary tree using preorder threads rather than inorder threads. Design an algorithm for traversal without using stack and analyze its complexity.
+
+11
+
+A Dictionary stores keywords and its meanings. Provide facility for adding new keywords, deleting keywords, updating values of any entry. Provide facility to display whole data sorted in ascending/ Descending order. Also find how many maximum comparisons may require for finding any keyword. Use Binary Search Tree for implementation.
+
+12
+
+Implement a file compression algorithm that uses binary tree. Your program should allow the user to compress and decompress messages containing alphabets using the standard Huffman algorithm for encoding and decoding.

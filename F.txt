@@ -1,0 +1,31 @@
+Group F
+
+Department maintains a student information. The file contains roll number, name, division and address. Allow user to add, delete information of student. Display information of particular employee. If record of student does not exist an appropriate message is displayed. If it is, then the system displays the student details. Use sequential file to main the data.
+
+Company maintains employee information as employee ID, name, designation and salary. Allow user to add, delete information of employee. Display information of particular employee. If employee does not exist an appropriate message is displayed. If it is, then the system displays the employee details. Use index sequential file to maintain the data.
+
+25
+
+Implementation of a direct access file -Insertion and deletion of a record from a direct access file
+
+26
+
+Assume we have two input and two output tapes to perform the sorting. The internal memory can hold and sort m records at a time. Write a program in java for external sorting. Find out time complexity.
+
+Mini-Projects/ Case Study
+
+27
+
+Design a mini project using JAVA which will use the different data structure with or without Java collection library and show the use of specific data structure on the efficiency (performance) of the code.
+
+28
+
+29
+
+30
+
+Design a mini project to implement Snake and Ladders Game using Python.
+
+Design a mini project to implement a Smart text editor.
+
+Design a mini project for automated Term work assessment of student based on parameters like daily attendance, Unit Test / Prelim performance, Students achievements if any, Mock Practical.

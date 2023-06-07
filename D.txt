@@ -1,0 +1,15 @@
+Group D
+
+18
+
+Given sequence k = k1 <k2 < ... <kn of n sorted keys, with a search probability pi for each key ki. Build the Binary search tree that has the least search cost given the access probability for each key?
+
+http://collegecirculars.unipune.ac.in/sites/documents/Syllabus2020/Forms/AllItems.aspx
+
+#66/87
+
+Curriculum for Second Year of Computer Engineering (2019 Course), Savitribai Phule Pune University
+
+19
+
+A Dictionary stores keywords and its meanings. Provide facility for adding new keywords, deleting keywords, updating values of any entry. Provide facility to display whole data sorted in ascending/ Descending order. Also find how many maximum comparisons may require for finding any keyword. Use Height balance tree and find the complexity for finding a keyword

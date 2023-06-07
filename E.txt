@@ -1,0 +1,13 @@
+Group E
+
+Consider a scenario for Hospital to cater services to different kinds of patients as Serious (top priority), b) non-serious (medium priority), c) General Checkup (Least priority). Implement the priority queue to cater services to the patients.
+
+Implement the Heap/Shell sort algorithm implemented in Java demonstrating heap/shell data structure with modularity of programming language
+
+Read the marks obtained by students of second year in an online examination of particular subject. Find out maximum and minimum marks obtained in that subject. Use heap data structure. Analyze the algorithm.
+
+20
+
+21
+
+22
